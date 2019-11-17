@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+### Welcome to Stephanie Bouasy's Portfolio!
 
-You can use the [editor on GitHub](https://github.com/stephbouasy/stephbouasy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is where all my projects created during the SMU fullstack webdevelopment bootcamp can be viewed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Node-Js Homework
 
-### Markdown
+In this assignment we created a LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The LIRI can be viewed from here:
 
-```markdown
-Syntax highlighted code block
+https://github.com/stephbouasy/nodejs
 
-# Header 1
-## Header 2
-### Header 3
+## Trivia Game
 
-- Bulleted
-- List
+Test your Harry Potter knowledge by taking this timed trivia quiz! In this assignment I created a Trivia game, using JavaScript for the logic, and jQuery to manipulate HTML. I also laid out this app with valid HTML and stylish CSS.
 
-1. Numbered
-2. List
+https://stephbouasy.github.io/TriviaGame/
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Word Guess Game
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Play the classic Hangman game with a Stranger Things twist. This app runs in the browser, and features dynamically updated HTML and CSS powered by my JavaScript code.
 
-### Jekyll Themes
+https://stephbouasy.github.io/Word-Guess-Game/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stephbouasy/stephbouasy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Connect with me on LinkedIn!
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://www.linkedin.com/in/stephanie-bouasy-759001144/
