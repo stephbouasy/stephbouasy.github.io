@@ -1,0 +1,600 @@
+**********EVENT INFO*********
+0
+Name of the Venue: STAR LOUNGE
+Venue Location: 東京都
+Date of the Event: 2019-11-23T00:30:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: AFAS Live
+Venue Location: Amsterdam
+Date of the Event: 2019-11-18T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: K.B. Hallen
+Venue Location: Frederiksberg
+Date of the Event: 2019-11-19T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Nashville Municipal Auditorium
+Venue Location: Nashville
+Date of the Event: 2019-11-30T18:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-12-01T19:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Dickies Arena
+Venue Location: Fort Worth
+Date of the Event: 2019-12-03T19:30:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: SAP Center at San Jose
+Venue Location: San Jose
+Date of the Event: 2019-12-05T19:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-12-06T19:30:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: 2019-12-10T19:30:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-12-13T19:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-12-15T18:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Xfinity Theatre
+Venue Location: Hartford
+Date of the Event: 2019-12-17T19:30:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Forum Theatre
+Venue Location: Melbourne
+Date of the Event: 2020-01-08T19:00:00
+*****************************
+Concert Info
+0
+Name of the Venue: AFAS Live
+Venue Location: Amsterdam
+Date of the Event: 2019-11-18T20:00:00
+*****************************
+Concert Info
+1
+Name of the Venue: K.B. Hallen
+Venue Location: Frederiksberg
+Date of the Event: 2019-11-19T20:00:00
+*****************************
+Concert Info
+2
+Name of the Venue: Nashville Municipal Auditorium
+Venue Location: Nashville
+Date of the Event: 2019-11-30T18:00:00
+*****************************
+Concert Info
+3
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-12-01T19:00:00
+*****************************
+Concert Info
+4
+Name of the Venue: Dickies Arena
+Venue Location: Fort Worth
+Date of the Event: 2019-12-03T19:30:00
+*****************************
+Concert Info
+5
+Name of the Venue: SAP Center at San Jose
+Venue Location: San Jose
+Date of the Event: 2019-12-05T19:00:00
+*****************************
+Concert Info
+6
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-12-06T19:30:00
+*****************************
+Concert Info
+7
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: 2019-12-10T19:30:00
+*****************************
+Concert Info
+8
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-12-13T19:00:00
+*****************************
+Concert Info
+9
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-12-15T18:00:00
+*****************************
+Concert Info
+10
+Name of the Venue: Xfinity Theatre
+Venue Location: Hartford
+Date of the Event: 2019-12-17T19:30:00
+*****************************
+Concert Info
+11
+Name of the Venue: Forum Theatre
+Venue Location: Melbourne
+Date of the Event: 2020-01-08T19:00:00
+*****************************
+Concert Info
+0
+Name of the Venue: AFAS Live
+Venue Location: Amsterdam
+Date of the Event: 2019-11-18T20:00:00
+-----------------
+Concert Info
+1
+Name of the Venue: K.B. Hallen
+Venue Location: Frederiksberg
+Date of the Event: 2019-11-19T20:00:00
+-----------------
+Concert Info
+2
+Name of the Venue: Nashville Municipal Auditorium
+Venue Location: Nashville
+Date of the Event: 2019-11-30T18:00:00
+-----------------
+Concert Info
+3
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-12-01T19:00:00
+-----------------
+Concert Info
+4
+Name of the Venue: Dickies Arena
+Venue Location: Fort Worth
+Date of the Event: 2019-12-03T19:30:00
+-----------------
+Concert Info
+5
+Name of the Venue: SAP Center at San Jose
+Venue Location: San Jose
+Date of the Event: 2019-12-05T19:00:00
+-----------------
+Concert Info
+6
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-12-06T19:30:00
+-----------------
+Concert Info
+7
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: 2019-12-10T19:30:00
+-----------------
+Concert Info
+8
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-12-13T19:00:00
+-----------------
+Concert Info
+9
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-12-15T18:00:00
+-----------------
+Concert Info
+10
+Name of the Venue: Xfinity Theatre
+Venue Location: Hartford
+Date of the Event: 2019-12-17T19:30:00
+-----------------
+Concert Info
+11
+Name of the Venue: Forum Theatre
+Venue Location: Melbourne
+Date of the Event: 2020-01-08T19:00:00
+-----------------
+Concert Info
+0
+Name of the Venue: AFAS Live
+Venue Location: Amsterdam
+Date of the Event: undefined
+-----------------
+Concert Info
+1
+Name of the Venue: K.B. Hallen
+Venue Location: Frederiksberg
+Date of the Event: undefined
+-----------------
+Concert Info
+2
+Name of the Venue: Nashville Municipal Auditorium
+Venue Location: Nashville
+Date of the Event: undefined
+-----------------
+Concert Info
+3
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: undefined
+-----------------
+Concert Info
+4
+Name of the Venue: Dickies Arena
+Venue Location: Fort Worth
+Date of the Event: undefined
+-----------------
+Concert Info
+5
+Name of the Venue: SAP Center at San Jose
+Venue Location: San Jose
+Date of the Event: undefined
+-----------------
+Concert Info
+6
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: undefined
+-----------------
+Concert Info
+7
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: undefined
+-----------------
+Concert Info
+8
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: undefined
+-----------------
+Concert Info
+9
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: undefined
+-----------------
+Concert Info
+10
+Name of the Venue: Xfinity Theatre
+Venue Location: Hartford
+Date of the Event: undefined
+-----------------
+Concert Info
+11
+Name of the Venue: Forum Theatre
+Venue Location: Melbourne
+Date of the Event: undefined
+-----------------
+Concert Info
+0
+Name of the Venue: AFAS Live
+Venue Location: Amsterdam
+Date of the Event: 2019-11-18T20:00:00
+-----------------
+Concert Info
+1
+Name of the Venue: K.B. Hallen
+Venue Location: Frederiksberg
+Date of the Event: 2019-11-19T20:00:00
+-----------------
+Concert Info
+2
+Name of the Venue: Nashville Municipal Auditorium
+Venue Location: Nashville
+Date of the Event: 2019-11-30T18:00:00
+-----------------
+Concert Info
+3
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: 2019-12-01T19:00:00
+-----------------
+Concert Info
+4
+Name of the Venue: Dickies Arena
+Venue Location: Fort Worth
+Date of the Event: 2019-12-03T19:30:00
+-----------------
+Concert Info
+5
+Name of the Venue: SAP Center at San Jose
+Venue Location: San Jose
+Date of the Event: 2019-12-05T19:00:00
+-----------------
+Concert Info
+6
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: 2019-12-06T19:30:00
+-----------------
+Concert Info
+7
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: 2019-12-10T19:30:00
+-----------------
+Concert Info
+8
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: 2019-12-13T19:00:00
+-----------------
+Concert Info
+9
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: 2019-12-15T18:00:00
+-----------------
+Concert Info
+10
+Name of the Venue: Xfinity Theatre
+Venue Location: Hartford
+Date of the Event: 2019-12-17T19:30:00
+-----------------
+Concert Info
+11
+Name of the Venue: Forum Theatre
+Venue Location: Melbourne
+Date of the Event: 2020-01-08T19:00:00
+-----------------
+Concert Info
+0
+Name of the Venue: AFAS Live
+Venue Location: Amsterdam
+Concert Info
+0
+Name of the Venue: AFAS Live
+Venue Location: Amsterdam
+Date of the Event: undefined
+-----------------
+Concert Info
+1
+Name of the Venue: K.B. Hallen
+Venue Location: Frederiksberg
+Date of the Event: undefined
+-----------------
+Concert Info
+2
+Name of the Venue: Nashville Municipal Auditorium
+Venue Location: Nashville
+Date of the Event: undefined
+-----------------
+Concert Info
+3
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: undefined
+-----------------
+Concert Info
+4
+Name of the Venue: Dickies Arena
+Venue Location: Fort Worth
+Date of the Event: undefined
+-----------------
+Concert Info
+5
+Name of the Venue: SAP Center at San Jose
+Venue Location: San Jose
+Date of the Event: undefined
+-----------------
+Concert Info
+6
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: undefined
+-----------------
+Concert Info
+7
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: undefined
+-----------------
+Concert Info
+8
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: undefined
+-----------------
+Concert Info
+9
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: undefined
+-----------------
+Concert Info
+10
+Name of the Venue: Xfinity Theatre
+Venue Location: Hartford
+Date of the Event: undefined
+-----------------
+Concert Info
+11
+Name of the Venue: Forum Theatre
+Venue Location: Melbourne
+Date of the Event: undefined
+-----------------
+Concert Info
+0
+Name of the Venue: AFAS Live
+Venue Location: Amsterdam
+Date of the Event: undefined
+-----------------
+Concert Info
+1
+Name of the Venue: K.B. Hallen
+Venue Location: Frederiksberg
+Date of the Event: undefined
+-----------------
+Concert Info
+2
+Name of the Venue: Nashville Municipal Auditorium
+Venue Location: Nashville
+Date of the Event: undefined
+-----------------
+Concert Info
+3
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: undefined
+-----------------
+Concert Info
+4
+Name of the Venue: Dickies Arena
+Venue Location: Fort Worth
+Date of the Event: undefined
+-----------------
+Concert Info
+5
+Name of the Venue: SAP Center at San Jose
+Venue Location: San Jose
+Date of the Event: undefined
+-----------------
+Concert Info
+6
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: undefined
+-----------------
+Concert Info
+7
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: undefined
+-----------------
+Concert Info
+8
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: undefined
+-----------------
+Concert Info
+9
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: undefined
+-----------------
+Concert Info
+10
+Name of the Venue: Xfinity Theatre
+Venue Location: Hartford
+Date of the Event: undefined
+-----------------
+Concert Info
+11
+Name of the Venue: Forum Theatre
+Venue Location: Melbourne
+Date of the Event: undefined
+-----------------
+Concert Info
+0
+Name of the Venue: AFAS Live
+Venue Location: Amsterdam
+Date of the Event: undefined
+-----------------
+Concert Info
+1
+Name of the Venue: K.B. Hallen
+Venue Location: Frederiksberg
+Date of the Event: undefined
+-----------------
+Concert Info
+2
+Name of the Venue: Nashville Municipal Auditorium
+Venue Location: Nashville
+Date of the Event: undefined
+-----------------
+Concert Info
+3
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Date of the Event: undefined
+-----------------
+Concert Info
+4
+Name of the Venue: Dickies Arena
+Venue Location: Fort Worth
+Date of the Event: undefined
+-----------------
+Concert Info
+5
+Name of the Venue: SAP Center at San Jose
+Venue Location: San Jose
+Date of the Event: undefined
+-----------------
+Concert Info
+6
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Date of the Event: undefined
+-----------------
+Concert Info
+7
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: undefined
+-----------------
+Concert Info
+8
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Date of the Event: undefined
+-----------------
+Concert Info
+9
+Name of the Venue: TD Garden
+Venue Location: Boston
+Date of the Event: undefined
+-----------------
+Concert Info
+10
+Name of the Venue: Xfinity Theatre
+Venue Location: Hartford
+Date of the Event: undefined
+-----------------
+Concert Info
+11
+Name of the Venue: Forum Theatre
+Venue Location: Melbourne
+Date of the Event: undefined
+-----------------
+Movie
+Title: Terminator
+Release Year: 1991
+IMDB Rating: 6.0
+Movie
+Title: Terminator
+Release Year: 1991
+IMDB Rating: 6.0
+Rotten Tomatoes Rating: undefined
+Country of Production: USA
+Language: English
+Plot: A cyborg comes from the future, to kill a girl named Sarah Lee.
+Actors: Loris Basso, James Callahan, Debbie Medows, Michelle Kovach
+---------------------
