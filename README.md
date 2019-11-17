@@ -1,4 +1,4 @@
-# Stephanie Bouasy's Portfolio: 
+# The following are assignments I completed for the SMU full stack web development cohort:
 
 ## NodeJs:
 In this assignment, I made a LIRI(Language Interpretation and Recognition Interface). LIRI will be a command line node app that takes in parameters and gives you back data.
@@ -19,6 +19,7 @@ https://stephbouasy.github.io/TriviaGame/
 https://stephbouasy.github.io/Word-Guess-Game/
 
 Connect with me on LinkedIn!
+
 https://www.linkedin.com/in/stephanie-bouasy-759001144/
 
 
