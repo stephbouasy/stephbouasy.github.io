@@ -1,5 +1,10 @@
 # The following are assignments I completed for the SMU full stack web development cohort:
 
+## Project 2:
+In this assignment, I worked with two cohort classmates to create an app that gives you movie suggestions based on your mood. I worked on the front-end side.
+
+https://infinite-tundra-66148.herokuapp.com/
+
 ## NodeJs:
 In this assignment, I made a LIRI(Language Interpretation and Recognition Interface). LIRI will be a command line node app that takes in parameters and gives you back data.
 
