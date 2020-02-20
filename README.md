@@ -1,5 +1,14 @@
 # The following are assignments I completed for the SMU full stack web development cohort:
 
+## Clicky-Game:
+In this assignment, I created a memory game with React. This was created by breaking up my application's UI into components, manage component state, and responsive to user events.
+
+Link to Clicky-Game
+https://salty-plateau-95147.herokuapp.com/
+
+Github:
+https://github.com/stephbouasy/gameClicky/tree/master/clickgame
+
 ## Project 2:
 In this assignment, I worked with two cohort classmates to create an app that gives you movie suggestions based on your mood. I worked on the front-end side.
 
